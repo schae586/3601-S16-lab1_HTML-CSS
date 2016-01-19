@@ -1,19 +1,44 @@
 h2 {
     color: red;
-    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+    font-family: "Lucida Grande", Arial, sans-serif;
 }
 
 p {
-    font-family: monospace;
+    color: darkmagenta;
 }
 
+h1{
+    text-align: center;
+    color: mediumspringgreen;
+}
+
+h3{
+    font-family: cursive;
+}
+
+#heads h1{
+    color: black;
+}
+
+.okayPets{
+    font-size: large;
+    color: darkgoldenrod;
+}
 img {
     display: block;
-    width: 50%;
+    width: 25%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .centerText {
     text-align: center;
+}
+
+#Navs {
+    background-color: yellowgreen;
+}
+
+#heads, #feet {
+    background-color: aqua;
 }
