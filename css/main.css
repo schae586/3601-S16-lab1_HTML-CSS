@@ -43,3 +43,15 @@ img {
 #heads, #feet {
     background-color: aqua;
 }
+
+body{
+      background-color: gainsboro;
+}
+
+audio{
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin: 0 auto;*/
+}
