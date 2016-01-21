@@ -12,8 +12,9 @@ h1{
     color: mediumspringgreen;
 }
 
-h3{
+.supplies{
     font-family: cursive;
+    color: blueviolet;
 }
 
 #heads h1{
@@ -22,7 +23,7 @@ h3{
 
 .okayPets{
     font-size: large;
-    color: darkgoldenrod;
+    color: chartreuse;
 }
 img {
     display: block;
